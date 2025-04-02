@@ -1,0 +1,44 @@
+# IntelliJ IDEA
+.idea/
+
+# User-specific files
+*.iml
+*.iws
+.idea/*
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# JARs, WARs, and ZIPs
+*.jar
+*.war
+*.ear
+*.zip
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+
+# .env files
+.env
+
+# JetBrains IDE files
+.idea/.idea/
+.idea/.idea_modules/
+
+# IntelliJ specific files (not necessary for others)
+.idea/work
